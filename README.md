@@ -1,7 +1,7 @@
 # shared_mutex
 Implement for `std::shared_mutex` (minimum required c++ standard: C++11)  
 实现`std::shared_mutex` (要求的最低c++标准: C++11)  
-The usage is the same as `std::shared_mutex`
+The usage is the same as `std::shared_mutex`  
 使用方式与`std::shared_mutex`一样  
 ```cpp
 #include "shared_mutex.hpp"
